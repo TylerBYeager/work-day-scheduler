@@ -21,6 +21,8 @@ setInterval(liveTime, 500);
 
 
 });
+
+
 var dateInput = $("#datepicker");
 
 
