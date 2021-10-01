@@ -14,6 +14,7 @@ Things that I did not accomplish:
 2. I was unable to add in the color styling to show which hours had passed and which were upcoming. 
 3. Was unable to implement datepicker in the way that I had intended. 
 ---
+![Snapshot](https://user-images.githubusercontent.com/89880190/135579138-28f7e827-e57b-4042-8874-d321315f70cb.png)
 
 ## Code Snippets
 Here are few code snippets that I enjoyed coding and what they accomplished. This first snippet used moment.js to create a live display of the current date and time. 
