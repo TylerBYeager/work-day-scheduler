@@ -19,4 +19,11 @@ liveTime();
 
 setInterval(liveTime, 500);
 
-})
+
+});
+var dateInput = $("#datepicker");
+
+
+$( function() { //added date picker widget from jqueryui.com
+    $( "#datepicker" ).datepicker();
+} );
